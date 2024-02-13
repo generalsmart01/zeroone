@@ -266,6 +266,7 @@ header #menu {
 
 .features {
   min-height: 100vh;
+  padding-block-end: 6rem;
 }
 
 .features h1 {
@@ -318,6 +319,7 @@ header #menu {
 .product {
   min-height: 100vh;
   background: #222;
+  padding-block-end: 6rem;
 }
 
 .product .box-container {
@@ -381,6 +383,7 @@ header #menu {
   flex-wrap: wrap;
   padding-top: 8.5rem;
   padding-bottom: 4rem;
+  padding-block-end: 6rem;
 }
 
 .contact form {
